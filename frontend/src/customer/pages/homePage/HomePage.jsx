@@ -5,7 +5,7 @@ import MainCrousel from '../../components/homeCarousel/MainCarousel'
 export default function HomePage() {
   return (
     <>
-     <MainCrousel />
+     {/* <MainCrousel /> */}
     </>
   )
 }

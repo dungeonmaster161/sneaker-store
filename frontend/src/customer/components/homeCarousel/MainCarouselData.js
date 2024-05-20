@@ -1,22 +1,22 @@
 export const mainCarouselData = [
     {
     image:
-    "https://www.ethnicplus.in/media/mageplaza/bannerslider/banner/image/3//3_9.jpg",
-    path: "/women/clothing/lengha_choli",
+    "https://raw.githubusercontent.com/dungeonmaster161/sneaker-store/master/frontend/public/adidasBanner.jpeg",
+    path: "/unisex/sneakers/adidas",
     },
     {
     image:
-    "https://www.ethnicplus.in/media/mageplaza/bannerslider/banner/image/4//4_8.jpg",
-    path: "/women/clothing/women_dress",
+    "https://raw.githubusercontent.com/dungeonmaster161/sneaker-store/master/frontend/public/converserBanner.jpeg",
+    path: "/unisex/sneakers/converse",
     },
     {
     image:
-    "https://www.ethnicplus.in/media/mageplaza/bannerslider/banner/image/1//1_5.jpg",
-    path: "/women/clothing/women_dress",
+    "https://raw.githubusercontent.com/dungeonmaster161/sneaker-store/master/frontend/public/newBalancebanner.jpeg",
+    path: "/men/sneakers/newBalance",
     },
     {
     image:
-    "https://www.ethnicplus.in/media/mageplaza/bannerslider/banner/image/2//2_9.jpg",
-    path: "/women/clothing/women_saree",
+    "https://raw.githubusercontent.com/dungeonmaster161/sneaker-store/master/frontend/public/nikeBanner.jpeg",
+    path: "/men/sneakers/nike",
     },
     ];
