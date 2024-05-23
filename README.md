@@ -1,1 +1,1 @@
-# sneaker-store - developed in java 
+# sneaker-store - developed in java, spring boot 
