@@ -1,1 +1,1 @@
-# sneaker-store
+# sneaker-store - developed in java 
